@@ -1,5 +1,5 @@
 ---
-author: 研究生鱼皮-yjf
+author: Vichayturen
 icon: blog
 date: 2023-08-23
 category:

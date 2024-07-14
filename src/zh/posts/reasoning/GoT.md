@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-08-27
 shortTitle: "Graph-of-Thought: 思维图"

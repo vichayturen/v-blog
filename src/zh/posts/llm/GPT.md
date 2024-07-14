@@ -1,5 +1,5 @@
 ---
-author: 最后的开神-wkyc
+author: Vichayturen
 icon: pen-to-square
 date: 2023-06-15
 shortTitle: GPT：生成式微调

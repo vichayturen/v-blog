@@ -1,5 +1,5 @@
 ---
-author: 最后的开神-wkyc
+author: Vichayturen
 icon: pen-to-square
 date: 2023-07-12
 shortTitle: OpenAI可用大语言模型

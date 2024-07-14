@@ -1,5 +1,5 @@
 ---
-author: 最后的开神-wkyc
+author: Vichayturen
 icon: blog
 date: 2024-01-30
 shortTitle: Annoy向量检索算法

@@ -1,5 +1,5 @@
 ---
-author: hyb
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-06-13
 shortTitle: "Prompt工程指南"

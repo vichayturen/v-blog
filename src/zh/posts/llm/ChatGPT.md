@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: pen-to-square
 date: 2023-03-01
 title: ChatGPT相关技术介绍

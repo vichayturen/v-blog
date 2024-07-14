@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-07-14
 shortTitle: LLM推理综述

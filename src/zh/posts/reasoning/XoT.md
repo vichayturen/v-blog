@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-11-13
 shortTitle: "XoT: 强化学习增强思维生成"

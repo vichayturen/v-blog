@@ -1,5 +1,5 @@
 ---
-author: lx
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-09-04
 shortTitle: "用GPT-4创建会议纪要生成AI"

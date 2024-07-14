@@ -1,5 +1,5 @@
 ---
-author: 最后的开神-wkyc
+author: Vichayturen
 icon: pen-to-square
 date: 2023-06-28
 shortTitle: 近端策略优化算法

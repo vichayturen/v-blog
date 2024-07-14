@@ -1,5 +1,5 @@
 ---
-author: 最后的开神-wkyc
+author: Vichayturen
 icon: boxes-packing
 date: 2023-11-16
 shortTitle: S-LoRA：Adapter的主存存储

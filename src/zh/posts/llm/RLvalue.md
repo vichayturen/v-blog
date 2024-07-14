@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: pen-to-square
 date: 2023-03-28
 shortTitle: 强化学习之价值学习

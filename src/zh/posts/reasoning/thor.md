@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-09-03
 shortTitle: THOR：思维链促进情感分析

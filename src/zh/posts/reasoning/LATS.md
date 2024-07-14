@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-12-09
 shortTitle: "LATS（语言代理树搜索）"

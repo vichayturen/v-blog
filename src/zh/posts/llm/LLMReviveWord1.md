@@ -1,5 +1,5 @@
 ---
-author: shb
+author: Vichayturen
 icon: pen-to-square
 date: 2023-06-14
 shortTitle: LLM如何重映现实世界（一）

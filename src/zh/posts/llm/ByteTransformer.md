@@ -1,5 +1,5 @@
 ---
-author: 猞猁-zlj
+author: Vichayturen
 icon: pen-to-square
 date: 2023-06-05
 shortTitle: ByteTransformer优化推理速度

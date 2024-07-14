@@ -12,8 +12,8 @@ export default defineUserConfig({
   locales: {
     "/zh/": {
       lang: "zh-CN",
-      title: "V博客",
-      description: "Vichayturen知识博客",
+      title: "VV NeoWorld",
+      description: "VV NeoWorld",
     },
   },
 

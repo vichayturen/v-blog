@@ -1,6 +1,6 @@
 ---
 icon: pen-to-square
-author: shb
+author: Vichayturen
 date: 2023-07-08
 tag:
   - 语言模型

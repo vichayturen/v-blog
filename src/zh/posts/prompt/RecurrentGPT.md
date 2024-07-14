@@ -1,5 +1,5 @@
 ---
-author: 研究生鱼皮-yjf
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-05-30
 shortTitle: "RecurrentGPT"

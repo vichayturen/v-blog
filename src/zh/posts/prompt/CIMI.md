@@ -1,5 +1,5 @@
 ---
-author: lx
+author: Vichayturen
 icon: wand-magic-sparkles
 date: 2023-06-05
 shortTitle: "CIMI: 因果启发的可解释框架"

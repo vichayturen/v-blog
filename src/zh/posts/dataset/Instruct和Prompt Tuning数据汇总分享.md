@@ -1,5 +1,5 @@
 ---
-author: shb
+author: Vichayturen
 icon: book
 date: 2023-06-13
 shortTitle: 指令/提示微调数据集分享

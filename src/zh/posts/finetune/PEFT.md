@@ -1,5 +1,5 @@
 ---
-author: hyb
+author: Vichayturen
 icon: boxes-packing
 date: 2023-06-13
 shortTitle: "PEFT: 参数高效微调"

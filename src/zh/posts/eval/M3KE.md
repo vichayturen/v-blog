@@ -1,5 +1,5 @@
 ---
-author: shb
+author: Vichayturen
 icon: palette
 category:
   - 评估方法

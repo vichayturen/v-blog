@@ -1,5 +1,5 @@
 ---
-author: shb
+author: Vichayturen
 icon: pen-to-square
 date: 2023-08-21
 shortTitle: 知识编辑方法分享
