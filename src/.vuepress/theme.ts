@@ -38,7 +38,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "分享知识-分享快乐\nICP证：鄂ICP备2024066959号",
+      footer: "分享知识-分享快乐<br>ICP证：<span><a href='https://beian.miit.gov.cn/' target='_blank'>鄂ICP备2024066959号</a></span>",
 
       displayFooter: true,
 
