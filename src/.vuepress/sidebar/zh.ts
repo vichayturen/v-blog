@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/zh/": [
+  "/": [
     "",
     {
       text: "论文分享",
@@ -29,5 +29,5 @@ export const zhSidebar = sidebar({
     // "intro",
     // "slides",
   ],
-  "/zh/posts/": "structure",
+  "/posts/": "structure",
 });

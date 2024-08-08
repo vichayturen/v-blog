@@ -10,7 +10,7 @@ export default defineUserConfig({
     ]
   ],
   locales: {
-    "/zh/": {
+    "/": {
       lang: "zh-CN",
       title: "VV NeoWorld",
       description: "VV NeoWorld",

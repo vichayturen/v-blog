@@ -31,21 +31,20 @@ export default hopeTheme({
   },
 
   locales: {
-    //中文版
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "分享知识-分享快乐",
+      footer: "分享知识-分享快乐\nICP证：鄂ICP备2024066959号",
 
       displayFooter: true,
 
       blog: {
         // description: "一个前端开发者",
-        intro: "/zh/intro.html",
+        intro: "/intro.html",
       },
 
     },
@@ -53,8 +52,7 @@ export default hopeTheme({
   // 加密文档在此修改
   encrypt: {
     config: {
-      "/en/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["1234"],
     },
   },
 
