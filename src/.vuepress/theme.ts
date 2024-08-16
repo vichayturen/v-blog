@@ -25,7 +25,7 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      GitHub: "https://github.com/vichayturen",
+      // GitHub: "https://github.com/vichayturen",
       Gitee: "https://gitee.com/vichay"
     },
   },
@@ -38,7 +38,11 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "分享知识-分享快乐<br>ICP证：<span><a href='https://beian.miit.gov.cn/' target='_blank'>鄂ICP备2024066959号</a></span>",
+      footer: "分享知识-分享快乐<br><img src='https://beian.mps.gov.cn/img/logo01.dd7ff50e.png' style='width: 16px; height: 16px'>" +
+          "&nbsp;<span>" +
+          "<a href='https://beian.mps.gov.cn/#/query/webSearch?code=42011102005600' target='_blank'>鄂公网安备42011102005600号</a>" +
+          "</span>&nbsp;&nbsp;" +
+          "<span><a href='https://beian.miit.gov.cn/' target='_blank'>鄂ICP备2024066959号</a></span>",
 
       displayFooter: true,
 
@@ -65,14 +69,14 @@ export default hopeTheme({
     //   serverURL: "https://waline-test-3k1u6a5k5-sheli00.vercel.app",
     //   login: 'enable'
     // },
-    comment: {
-      provider: "Giscus",
-      repo: "HUSTAI/HUSTAI.github.io",
-      repoId: "R_kgDOJuM35g",
-      category: "Announcements",
-      categoryId: "DIC_kwDOJuM35s4CXKBd",
-      mapping: "title"
-    },
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "HUSTAI/HUSTAI.github.io",
+    //   repoId: "R_kgDOJuM35g",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOJuM35s4CXKBd",
+    //   mapping: "title"
+    // },
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
